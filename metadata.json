@@ -1,0 +1,6 @@
+{
+  "name": "Órdenes de Entrega",
+  "description": "Herramienta interna para captura de fotos de órdenes de entrega, envío por correo electrónico y registro de entregas de miCerveza (Cervecería Bucanero S.A.).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

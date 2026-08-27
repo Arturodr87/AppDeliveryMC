@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="60"
+    android:viewportHeight="72">
+    
+    <!-- White Foam Top with clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 12,18 C 10,14 14,7 20,7 C 23,2 35,2 38,7 C 45,7 48,14 46,18 Z" />
+        
+    <!-- Mug Silhouette Outline / Border -->
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M 7,17 C 7,16 9,15 11,15 L 47,15 C 49,15 51,16 51,17 L 51,50 C 51,62 42,71 29,71 C 16,71 7,62 7,50 Z" />
+
+    <!-- Upper Body Navy Blue (#004671) -->
+    <path
+        android:fillColor="#004671"
+        android:pathData="M 9,17 L 49,17 L 49,42 L 9,42 Z" />
+
+    <!-- Lower Body Golden Yellow (#FFDC53) with rounded bottom glass shape -->
+    <path
+        android:fillColor="#FFDC53"
+        android:pathData="M 9,44 L 49,44 L 49,49 C 49,60 40,69 29,69 C 18,69 9,60 9,49 Z" />
+
+    <!-- 'm' letter cut out on upper body in White -->
+    <!-- Left stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 14,24 L 18.5,24 L 18.5,42 L 14,42 Z" />
+    <!-- Middle arch & stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 18.5,24 C 18.5,21.5 21.5,19.5 25,19.5 C 28.5,19.5 30.5,21.5 30.5,24 L 30.5,42 L 26,42 L 26,25.5 C 26,24 24.5,23 23,23 C 21.5,23 20,24 20,25.5 L 20,42 L 18.5,42 Z" />
+    <!-- Right arch & stem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 30.5,24 C 30.5,21.5 33.5,19.5 37,19.5 C 40.5,19.5 42.5,21.5 42.5,24 L 42.5,42 L 38,42 L 38,25.5 C 38,24 36.5,23 35,23 C 33.5,23 32,24 32,25.5 L 32,42 L 30.5,42 Z" />
+
+    <!-- 'i' letter stem on upper body in White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M 44.5,19.5 L 48.5,19.5 L 48.5,42 L 44.5,42 Z" />
+</vector>

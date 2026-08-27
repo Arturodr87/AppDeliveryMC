@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Órdenes de Entrega</string>
+    <string name="brand_name">miCerveza</string>
+    <string name="brand_subtitle">POR CERVECERÍA BUCANERO S.A.</string>
+    <string name="take_order_photo_btn">Tomar Foto de Orden de Entrega</string>
+    <string name="select_gallery_photo">O seleccionar de galería</string>
+    <string name="preview_title">Vista Previa de Orden</string>
+    <string name="retake_photo">Reintentar</string>
+    <string name="accept_and_send">Aceptar y Enviar</string>
+    <string name="settings_title">Configuración de Correo</string>
+    <string name="default_email_label">Correo destinatario por defecto</string>
+    <string name="default_email_hint">logistica@mitienda.com</string>
+    <string name="cc_email_label">Correo en copia (CC opcional)</string>
+    <string name="subject_prefix_label">Prefijo del asunto</string>
+    <string name="save_settings">Guardar Configuración</string>
+    <string name="history_title">Historial de Envíos</string>
+    <string name="empty_history">Aún no se han enviado órdenes de entrega.</string>
+    <string name="photo_sent_success">¡Foto enviada correctamente!</string>
+    <string name="order_code_label">Nº de Orden / Referencia (Opcional)</string>
+    <string name="notes_label">Notas u Observaciones (Opcional)</string>
+</resources>
